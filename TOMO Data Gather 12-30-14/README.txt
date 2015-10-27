@@ -1,0 +1,3 @@
+Tomo Vpeak data gathering performed in the conference center room A. Two wall sections with RF foam were arranged perpendicular to each other spaced slightly apart (see photos). The bots moved through 22 time steps, and 2 vpeak sets were gathered at each time step. 
+NOTE: TIME STEP 2 CONTAINS INCOMPLETE TOMO DATA DUE TO PRESSING THE BUTTON TWICE IN SUCCESSION. Should probably ignore that data.
+P410 settings: pulse integration index 7, TX gain setting 42.

@@ -1,0 +1,3660 @@
+SERVER: Shutting down.
+SERVER: Data files logged to C:\Datasets.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 4: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 4: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 6: iRobot battery: 15.34V, 83% remaining.  Laptop battery: 67% remaining.
+ROBOT 4: Range block received.
+ROBOT 7: iRobot battery: 15.22V, 80% remaining.  Laptop battery: 71% remaining.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 4: Range block received.
+ROBOT 6: Range block received.
+ROBOT 2: iRobot battery: 14.11V, 91% remaining.  Laptop battery: 70% remaining.
+ROBOT 4: iRobot battery: 15.39V, 82% remaining.  Laptop battery: 72% remaining.
+ROBOT 5: iRobot battery: 15.45V, 83% remaining.  Laptop battery: 70% remaining.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: iRobot battery: 15.36V, 83% remaining.  Laptop battery: 67% remaining.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 4: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 4: Range block received.
+ROBOT 1: iRobot battery: 15.70V, 91% remaining.  Laptop battery: 75% remaining.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 0: iRobot battery: 15.59V, 91% remaining.  Laptop battery: 73% remaining.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 4: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 4: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 6: Range block received.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+ROBOT 3: Range block received.
+ROBOT 2: Range block received.
+ROBOT 0: Range block received.
+ROBOT 4: Range block received.
+ROBOT 7: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 7: Range block received.
+ROBOT 6: Range block received.
+ROBOT 3: Range block received.
+ROBOT 2: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Moved 528 mm.
+ROBOT 7: Moved 523 mm.
+ROBOT 6: Moved 518 mm.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 0: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 3: Range block received.
+ROBOT 2: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+ROBOT 7: Range block received.
+ROBOT 3: Range block received.
+ROBOT 2: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 2: Range block received.
+ROBOT 1: Range block received.
+ROBOT 7: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 4: Moved 322 mm.
+ROBOT 3: Moved 321 mm.
+ROBOT 7: Moved 321 mm.
+ROBOT 6: Moved 323 mm.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 7: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 1: Range block received.
+ROBOT 7: Range block received.
+ROBOT 6: Range block received.
+ROBOT 5: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 6: Range block received.
+ROBOT 2: Range block received.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 6: Range block received.
+ROBOT 5: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 7: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 7: Moved 519 mm.
+ROBOT 4: Moved 523 mm.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: iRobot battery: 15.34V, 81% remaining.  Laptop battery: 74% remaining.
+ROBOT 6: iRobot battery: 15.45V, 84% remaining.  Laptop battery: 70% remaining.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 2: iRobot battery: 14.19V, 92% remaining.  Laptop battery: 73% remaining.
+ROBOT 4: iRobot battery: 15.50V, 83% remaining.  Laptop battery: 75% remaining.
+ROBOT 5: iRobot battery: 15.53V, 84% remaining.  Laptop battery: 73% remaining.
+ROBOT 3: Range block received.
+ROBOT 3: iRobot battery: 15.47V, 84% remaining.  Laptop battery: 70% remaining.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 1: iRobot battery: 15.81V, 92% remaining.  Laptop battery: 77% remaining.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: iRobot battery: 15.67V, 93% remaining.  Laptop battery: 76% remaining.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 3: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 6: Range block received.
+ROBOT 3: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 0: Range block received.
+ROBOT 3: Range block received.
+ROBOT 5: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 7: Moved 320 mm.
+ROBOT 6: Moved 317 mm.
+ROBOT 4: Moved 322 mm.
+ROBOT 3: Moved 327 mm.
+ROBOT 5: Moved 527 mm.
+ROBOT 5: Moved 325 mm.
+ROBOT 5: Rotated 14 degrees.
+ROBOT 5: Rotated 25 degrees.
+ROBOT 5: Rotated 38 degrees.
+ROBOT 5: Rotated 150 degrees.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 5: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 5: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 5: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 5: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 5: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 5: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 2: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 2: Range block received.
+ROBOT 5: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+ROBOT 7: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 2: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 3: Range block received.
+ROBOT 7: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 3: Range block received.
+ROBOT 7: Range block received.
+ROBOT 4: Range block received.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+ROBOT 2: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 7: Moved 324 mm.
+ROBOT 6: Moved 320 mm.
+ROBOT 4: Moved 320 mm.
+ROBOT 3: Moved 320 mm.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 3: Range block received.
+ROBOT 4: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+ROBOT 2: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 4: Range block received.
+ROBOT 7: Range block received.
+ROBOT 5: Range block received.
+ROBOT 6: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 2: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+ROBOT 5: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Moved 526 mm.
+ROBOT 6: Moved 528 mm.
+ROBOT 4: Moved 524 mm.
+ROBOT 5: Moved 520 mm.
+ROBOT 3: Moved 522 mm.
+ROBOT 7: Moved 526 mm.
+ROBOT 4: Rotated -14 degrees.
+ROBOT 4: Rotated -14 degrees.
+ROBOT 4: Rotated -171 degrees.
+ROBOT 5: Rotated -14 degrees.
+ROBOT 5: Rotated -34 degrees.
+ROBOT 7: Rotated 15 degrees.
+ROBOT 7: Rotated 44 degrees.
+ROBOT 6: iRobot battery: 15.53V, 85% remaining.  Laptop battery: 73% remaining.
+ROBOT 7: iRobot battery: 15.42V, 82% remaining.  Laptop battery: 77% remaining.
+ROBOT 2: iRobot battery: 14.30V, 93% remaining.  Laptop battery: 75% remaining.
+ROBOT 4: iRobot battery: 15.61V, 84% remaining.  Laptop battery: 78% remaining.
+ROBOT 5: iRobot battery: 15.64V, 85% remaining.  Laptop battery: 76% remaining.
+ROBOT 3: iRobot battery: 15.59V, 85% remaining.  Laptop battery: 74% remaining.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 5 .
+ROBOT 1: iRobot battery: 15.89V, 93% remaining.  Laptop battery: 80% remaining.
+SERVER: Vpeak data received from robot 2 .
+ROBOT 0: iRobot battery: 15.75V, 94% remaining.  Laptop battery: 78% remaining.
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 7: Range block received.
+ROBOT 6: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 6: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 5: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 7: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 6: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+ROBOT 7: Range block received.
+ROBOT 5: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 5: Range block received.
+ROBOT 2: Range block received.
+ROBOT 3: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 6: Moved 527 mm.
+ROBOT 4: Moved 530 mm.
+ROBOT 5: Moved 524 mm.
+ROBOT 3: Moved 522 mm.
+ROBOT 7: Moved 521 mm.
+ROBOT 6: Moved 1532 mm.
+ROBOT 6: Rotated 179 degrees.
+ROBOT 7: Moved 528 mm.
+ROBOT 3: Rotated -91 degrees.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 2: Range block received.
+ROBOT 1: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 3: Range block received.
+ROBOT 7: Range block received.
+ROBOT 0: Range block received.
+ROBOT 2: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Moved 506 mm.
+ROBOT 7: Moved 1012 mm.
+ROBOT 6: Moved 1006 mm.
+ROBOT 4: Moved 1006 mm.
+ROBOT 5: Moved 1004 mm.
+ROBOT 3: Rotated -41 degrees.
+ROBOT 5: Rotated 94 degrees.
+ROBOT 7: Rotated 95 degrees.
+SERVER: ATTENUATION MAPPED!
+ROBOT 7: iRobot battery: 15.53V, 83% remaining.  Laptop battery: 80% remaining.
+ROBOT 6: iRobot battery: 15.67V, 86% remaining.  Laptop battery: 76% remaining.
+ROBOT 2: iRobot battery: 14.39V, 95% remaining.  Laptop battery: 78% remaining.
+ROBOT 4: iRobot battery: 15.72V, 85% remaining.  Laptop battery: 81% remaining.
+ROBOT 5: iRobot battery: 15.75V, 86% remaining.  Laptop battery: 79% remaining.
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 6 .
+ROBOT 3: iRobot battery: 15.70V, 86% remaining.  Laptop battery: 77% remaining.
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 3 .
+ROBOT 1: iRobot battery: 15.97V, 95% remaining.  Laptop battery: 82% remaining.
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+ROBOT 0: iRobot battery: 15.84V, 95% remaining.  Laptop battery: 81% remaining.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 0: Range block received.
+ROBOT 2: Range block received.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 2: Range block received.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 2: Range block received.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 2: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 6: Range block received.
+ROBOT 2: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 5: Range block received.
+ROBOT 7: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 6: Range block received.
+ROBOT 7: Range block received.
+ROBOT 5: Range block received.
+ROBOT 3: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 7: Range block received.
+ROBOT 3: Range block received.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 1: Range block received.
+ROBOT 5: Range block received.
+ROBOT 3: Range block received.
+ROBOT 2: Range block received.
+ROBOT 0: Range block received.
+ROBOT 4: Range block received.
+ROBOT 7: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 7: Moved 1038 mm.
+ROBOT 6: Moved 1041 mm.
+ROBOT 4: Moved 1031 mm.
+ROBOT 5: Moved 1025 mm.
+ROBOT 3: Moved 1022 mm.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 5: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 2: Range block received.
+ROBOT 7: Range block received.
+ROBOT 5: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 3: Range block received.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 2: Range block received.
+ROBOT 7: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 7: Range block received.
+ROBOT 6: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 4: Moved 1028 mm.
+ROBOT 5: Moved 1032 mm.
+ROBOT 3: Moved 1035 mm.
+ROBOT 7: Moved 1030 mm.
+ROBOT 6: Moved 1036 mm.
+ROBOT 7: Rotated 33 degrees.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 2: Range block received.
+ROBOT 5: Range block received.
+ROBOT 3: Range block received.
+ROBOT 7: Range block received.
+ROBOT 0: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 7: Range block received.
+ROBOT 5: Range block received.
+ROBOT 6: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 4: Moved 1029 mm.
+ROBOT 5: Moved 1030 mm.
+ROBOT 3: Moved 1037 mm.
+ROBOT 7: Moved 1029 mm.
+ROBOT 6: Moved 1037 mm.
+ROBOT 6: iRobot battery: 15.53V, 87% remaining.  Laptop battery: 79% remaining.
+ROBOT 6: Rotated 95 degrees.
+ROBOT 7: iRobot battery: 15.64V, 84% remaining.  Laptop battery: 83% remaining.
+ROBOT 2: iRobot battery: 14.47V, 96% remaining.  Laptop battery: 81% remaining.
+ROBOT 4: iRobot battery: 15.81V, 87% remaining.  Laptop battery: 83% remaining.
+ROBOT 5: iRobot battery: 15.89V, 88% remaining.  Laptop battery: 81% remaining.
+ROBOT 3: iRobot battery: 15.81V, 87% remaining.  Laptop battery: 80% remaining.
+ROBOT 1: iRobot battery: 16.06V, 96% remaining.  Laptop battery: 84% remaining.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 2 .
+ROBOT 0: iRobot battery: 15.92V, 96% remaining.  Laptop battery: 83% remaining.
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+ROBOT 7: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 7: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 2: Range block received.
+ROBOT 7: Range block received.
+ROBOT 5: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 2: Range block received.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 7: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 4: Range block received.
+ROBOT 0: Range block received.
+ROBOT 1: Range block received.
+ROBOT 2: Range block received.
+ROBOT 5: Range block received.
+ROBOT 7: Range block received.
+ROBOT 3: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Moved 529 mm.
+ROBOT 3: Moved 524 mm.
+ROBOT 7: Moved 523 mm.
+ROBOT 6: Moved 527 mm.
+ROBOT 4: Moved 528 mm.
+ROBOT 5: Rotated 94 degrees.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 7: Range block received.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 7: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+ROBOT 0: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 7: Moved 522 mm.
+ROBOT 4: Moved 522 mm.
+ROBOT 5: Moved 527 mm.
+ROBOT 3: Moved 527 mm.
+ROBOT 6: Moved 525 mm.
+ROBOT 3: Rotated 39 degrees.
+ROBOT 4: Rotated 90 degrees.
+ROBOT 7: Rotated 22 degrees.
+ROBOT 7: Rotated -97 degrees.
+ROBOT 7: Rotated 83 degrees.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+ROBOT 7: iRobot battery: 15.72V, 86% remaining.  Laptop battery: 85% remaining.
+ROBOT 6: iRobot battery: 15.92V, 89% remaining.  Laptop battery: 82% remaining.
+ROBOT 2: iRobot battery: 14.56V, 97% remaining.  Laptop battery: 84% remaining.
+ROBOT 4: iRobot battery: 15.89V, 88% remaining.  Laptop battery: 86% remaining.
+ROBOT 5: iRobot battery: 15.97V, 89% remaining.  Laptop battery: 84% remaining.
+ROBOT 3: iRobot battery: 15.92V, 88% remaining.  Laptop battery: 83% remaining.
+SERVER: MDS UPDATED!
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 2: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+ROBOT 7: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+ROBOT 5: Range block received.
+ROBOT 1: iRobot battery: 16.14V, 97% remaining.  Laptop battery: 87% remaining.
+ROBOT 4: Range block received.
+ROBOT 0: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: iRobot battery: 16.03V, 97% remaining.  Laptop battery: 86% remaining.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Moved 522 mm.
+ROBOT 7: Moved 527 mm.
+ROBOT 6: Moved 529 mm.
+ROBOT 4: Moved 523 mm.
+ROBOT 5: Moved 522 mm.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 5: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 5: Range block received.
+ROBOT 7: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 0: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 6: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 4: Moved 528 mm.
+ROBOT 5: Moved 524 mm.
+ROBOT 3: Moved 522 mm.
+ROBOT 7: Moved 519 mm.
+ROBOT 6: Moved 529 mm.
+ROBOT 7: Rotated 100 degrees.
+ROBOT 3: Rotated 99 degrees.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 3: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+ROBOT 2: Range block received.
+ROBOT 7: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 2: Range block received.
+ROBOT 1: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 6: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Moved 522 mm.
+ROBOT 3: Moved 526 mm.
+ROBOT 7: Moved 519 mm.
+ROBOT 6: Moved 523 mm.
+ROBOT 4: Moved 528 mm.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 2: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 6: Range block received.
+ROBOT 5: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 5: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 2: Range block received.
+ROBOT 5: Range block received.
+ROBOT 6: Range block received.
+ROBOT 7: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 1: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 7: Moved 530 mm.
+ROBOT 6: Moved 522 mm.
+ROBOT 4: Moved 520 mm.
+ROBOT 5: Moved 526 mm.
+ROBOT 3: Moved 525 mm.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 3: Range block received.
+ROBOT 2: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 2: Range block received.
+ROBOT 3: Range block received.
+ROBOT 7: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 7: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 5: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Moved 530 mm.
+ROBOT 7: Moved 520 mm.
+ROBOT 6: Moved 528 mm.
+ROBOT 4: Moved 527 mm.
+ROBOT 5: Moved 526 mm.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 7 .
+ROBOT 7: iRobot battery: 15.86V, 87% remaining.  Laptop battery: 88% remaining.
+ROBOT 2: iRobot battery: 14.67V, 98% remaining.  Laptop battery: 86% remaining.
+ROBOT 4: iRobot battery: 16.00V, 89% remaining.  Laptop battery: 88% remaining.
+ROBOT 6: iRobot battery: 16.03V, 90% remaining.  Laptop battery: 85% remaining.
+ROBOT 5: iRobot battery: 16.09V, 90% remaining.  Laptop battery: 87% remaining.
+ROBOT 3: iRobot battery: 16.03V, 90% remaining.  Laptop battery: 86% remaining.
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 1: Range block received.
+ROBOT 7: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: iRobot battery: 16.31V, 98% remaining.  Laptop battery: 89% remaining.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 6: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 0: iRobot battery: 16.14V, 98% remaining.  Laptop battery: 88% remaining.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 6: Range block received.
+ROBOT 2: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Moved 528 mm.
+ROBOT 7: Moved 522 mm.
+ROBOT 6: Moved 520 mm.
+ROBOT 4: Moved 523 mm.
+ROBOT 5: Moved 530 mm.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 2: Range block received.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 0: Range block received.
+ROBOT 3: Range block received.
+ROBOT 7: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 4: Range block received.
+ROBOT 6: Range block received.
+ROBOT 5: Range block received.
+ROBOT 2: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 4: Moved 522 mm.
+ROBOT 7: Moved 528 mm.
+ROBOT 6: Moved 521 mm.
+ROBOT 5: Moved 519 mm.
+ROBOT 3: Moved 524 mm.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 6: Range block received.
+ROBOT 0: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+ROBOT 3: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 5: Range block received.
+ROBOT 1: Range block received.
+ROBOT 4: Range block received.
+ROBOT 0: Range block received.
+ROBOT 7: Range block received.
+ROBOT 6: Range block received.
+ROBOT 3: Range block received.
+ROBOT 2: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 0: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+ROBOT 7: Range block received.
+ROBOT 6: Range block received.
+ROBOT 5: Range block received.
+ROBOT 2: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 7: Moved 521 mm.
+ROBOT 6: Moved 524 mm.
+ROBOT 4: Moved 522 mm.
+ROBOT 5: Moved 520 mm.
+ROBOT 3: Moved 518 mm.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 4: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 5: Range block received.
+ROBOT 3: Range block received.
+ROBOT 1: Range block received.
+ROBOT 7: Range block received.
+ROBOT 2: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 7: Range block received.
+ROBOT 1: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 6: Range block received.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 7: Range block received.
+ROBOT 5: Range block received.
+ROBOT 6: Range block received.
+ROBOT 2: Range block received.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 3: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Moved 528 mm.
+ROBOT 7: Moved 529 mm.
+ROBOT 6: Moved 526 mm.
+ROBOT 4: Moved 526 mm.
+ROBOT 5: Moved 522 mm.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 2 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: ATTENUATION MAPPED!
+SERVER: Reconstructing image...
+SERVER: Vpeak data received from robot 2 .
+SERVER: Vpeak data received from robot 0 .
+SERVER: Vpeak data received from robot 6 .
+SERVER: Vpeak data received from robot 4 .
+SERVER: Vpeak data received from robot 7 .
+SERVER: Vpeak data received from robot 5 .
+SERVER: Vpeak data received from robot 3 .
+SERVER: Vpeak data received from robot 1 .
+SERVER: Requesting TOMO data block from Robot 7.
+SERVER: Requesting TOMO data block from Robot 6.
+SERVER: Requesting TOMO data block from Robot 2.
+SERVER: Requesting TOMO data block from Robot 4.
+SERVER: Requesting TOMO data block from Robot 5.
+SERVER: Requesting TOMO data block from Robot 3.
+SERVER: Requesting TOMO data block from Robot 1.
+SERVER: Requesting TOMO data block from Robot 0.
+SERVER: MDS UPDATED!
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 4: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+ROBOT 1: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 0: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 4: Range block received.
+ROBOT 1: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 1: Range block received.
+ROBOT 3: Range block received.
+ROBOT 0: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 7: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 3: Range block received.
+ROBOT 7: Range block received.
+ROBOT 6: Range block received.
+ROBOT 4: Range block received.
+ROBOT 0: Range block received.
+ROBOT 1: Range block received.
+ROBOT 2: Range block received.
+ROBOT 5: Range block received.
+SERVER: Requesting range data block from Robot 7.
+SERVER: Requesting range data block from Robot 6.
+SERVER: Requesting range data block from Robot 2.
+SERVER: Requesting range data block from Robot 4.
+SERVER: Requesting range data block from Robot 5.
+SERVER: Requesting range data block from Robot 3.
+SERVER: Requesting range data block from Robot 1.
+SERVER: Requesting range data block from Robot 0.
+ROBOT 2: Range block received.
+ROBOT 5: Range block received.
+ROBOT 0: Range block received.
+ROBOT 4: Range block received.
+ROBOT 7: Range block received.
+ROBOT 6: Range block received.
+ROBOT 1: Range block received.
+ROBOT 3: Range block received.
+ROBOT 7:  Ready.
+ROBOT 7: iRobot battery: 16.09V, 99% remaining.  Laptop battery: 91% remaining.
+ROBOT 6:  Ready.
+ROBOT 7: Connection established.
+ROBOT 6: iRobot battery: 16.25V, 99% remaining.  Laptop battery: 88% remaining.
+ROBOT 2:  Ready.
+ROBOT 4:  Ready.
+ROBOT 5:  Ready.
+ROBOT 6: Connection established.
+ROBOT 2: iRobot battery: 14.89V, 99% remaining.  Laptop battery: 89% remaining.
+ROBOT 4: iRobot battery: 16.25V, 99% remaining.  Laptop battery: 91% remaining.
+ROBOT 5: iRobot battery: 16.31V, 99% remaining.  Laptop battery: 89% remaining.
+ROBOT 2: Connection established.
+ROBOT 4: Connection established.
+ROBOT 3:  Ready.
+ROBOT 5: Connection established.
+ROBOT 3: iRobot battery: 16.25V, 99% remaining.  Laptop battery: 89% remaining.
+ROBOT 3: Connection established.
+ROBOT 1:  Ready.
+ROBOT 1: iRobot battery: 16.56V, 99% remaining.  Laptop battery: 92% remaining.
+ROBOT 1: Connection established.
+ROBOT 0:  Ready.
+ROBOT 0: iRobot battery: 16.36V, 99% remaining.  Laptop battery: 91% remaining.
+ROBOT 0: Connection established.
+ROBOT 0: 
+Connecting with pskill service on SDRL-RADBOT-00...
+Killing process 0 on SDRL-RADBOT-00...
+Process labview killed on SDRL-RADBOT-00.
+
+
+ROBOT 2: 
+Connecting with pskill service on SDRL-RADBOT-02...
+Killing process 0 on SDRL-RADBOT-02...
+Process labview killed on SDRL-RADBOT-02.
+
+
+ROBOT 1: 
+Connecting with pskill service on SDRL-RADBOT-01...
+Killing process 0 on SDRL-RADBOT-01...
+Process labview killed on SDRL-RADBOT-01.
+
+
+ROBOT 4: 
+Connecting with pskill service on SDRL-RADBOT-04...
+Killing process 0 on SDRL-RADBOT-04...
+Process labview killed on SDRL-RADBOT-04.
+
+
+ROBOT 5: 
+Connecting with pskill service on SDRL-RADBOT-05...
+Killing process 0 on SDRL-RADBOT-05...
+Process labview killed on SDRL-RADBOT-05.
+
+
+ROBOT 6: 
+Connecting with pskill service on SDRL-RADBOT-06...
+Killing process 0 on SDRL-RADBOT-06...
+Process labview killed on SDRL-RADBOT-06.
+
+
+ROBOT 7: 
+Connecting with pskill service on SDRL-RADBOT-07...
+Killing process 0 on SDRL-RADBOT-07...
+Process labview killed on SDRL-RADBOT-07.
+
+
+ROBOT 3: 
+Connecting with pskill service on SDRL-RADBOT-03...
+Killing process 0 on SDRL-RADBOT-03...
+Process labview killed on SDRL-RADBOT-03.
+
+
+SERVER: Attempting to connect ROBOT 7.
+SERVER: Attempting to connect ROBOT 6.
+SERVER: Attempting to connect ROBOT 5.
+SERVER: Attempting to connect ROBOT 4.
+SERVER: Attempting to connect ROBOT 3.
+SERVER: Attempting to connect ROBOT 2.
+SERVER: Attempting to connect ROBOT 0.
+SERVER: Attempting to connect ROBOT 1.
